@@ -42,11 +42,11 @@ The top indicators are as follows:
 
 ### Contributors
 
-[![](https://github.com/Jiajunn.png?size=50)](https://github.com/Jiajunn)
+[(https://github.com/Jiajunn.png?size=50)](https://github.com/Jiajunn)
 
-[![](https://github.com/Pugonfire?size=50)](https://github.com/Pugonfire)
+[(https://github.com/Pugonfire?size=50)](https://github.com/Pugonfire)
 
-[![](https://github.com/NgTzeSheng?size=50)](https://github.com/NgTzeSheng)
+[(https://github.com/NgTzeSheng?size=50)](https://github.com/NgTzeSheng)
 
 ---
 
