@@ -6,10 +6,6 @@ This is a mini project for CZ1115 (Intro to Data Science and Artificial Intellig
 
 ---
 
-### Contributors
-
----
-
 ### Problem Definition
 * Heart disease is one of the leading causes of death
 * Early detection and targeted treatment is key to alleviating the adverse impact of heart disease on people, physically and financially
@@ -41,6 +37,14 @@ The top indicators are as follows:
 * CART Pruning the optimal tree using cp
 * Random Forest
 * Getting variable importance
+
+---
+
+### Contributors
+
+[![](https://github.com/Jiajunn.png?size=50)](https://github.com/Jiajunn)
+[![](https://github.com/Pugonfire?size=50)](https://github.com/Pugonfire)
+[![](https://github.com/NgTzeSheng?size=50)](https://github.com/NgTzeSheng)
 
 ---
 
