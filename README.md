@@ -42,15 +42,11 @@ The top indicators are as follows:
 
 ### Contributors
 
-Jia Jun
-[![](https://github.com/Jiajunn.png?size=50)](https://github.com/Jiajunn)
-
-Max
-[![](https://github.com/Pugonfire?size=50)](https://github.com/Pugonfire)
-
-Tze Sheng
-[![](https://github.com/NgTzeSheng?size=50)](https://github.com/NgTzeSheng)
+[@Jiajunn](https://github.com/Jiajunn)
+[@Pugonfire](https://github.com/Pugonfire)
+[@NgTzeSheng](https://github.com/NgTzeSheng)
 
 ---
 
 ### References
+<https://archive.ics.uci.edu/ml/datasets/heart+disease>
