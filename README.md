@@ -50,3 +50,4 @@ The top indicators are as follows:
 
 ### References
 <https://archive.ics.uci.edu/ml/datasets/heart+disease>
+<https://www.analyticsvidhya.com/blog/2020/10/cost-complexity-pruning-decision-trees/>
