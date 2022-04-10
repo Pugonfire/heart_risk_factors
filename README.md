@@ -39,9 +39,12 @@ For the members of the public, advisories and health tips can be shared to encou
 
 ### New Learning Points
 
+* Converting multi-categorical target variable to binary target variable
 * CART Pruning the optimal tree using cp
-* Random Forest
+* Random Forest using sklearn RandomForestRegressor
 * Getting variable importance
+* Collaborating using GitHub
+* Collaborating using GoogleColab
 
 ---
 
